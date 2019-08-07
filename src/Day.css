@@ -1,0 +1,20 @@
+.Day {
+  width: 6rem;
+  text-align: center;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px lightgrey;
+}
+
+.dayRange {
+  display: flex;
+}
+
+.dayRange>div{
+  margin: auto;
+  justify-content: space-evenly
+}
+
+.dayPic {
+  width: 70%;
+}
